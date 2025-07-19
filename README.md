@@ -9,7 +9,7 @@ Goal: Classify user reviews from the Agoda mobile application (Google Play Store
 - Silver Layer – Data cleaning (emoji removal, language detection, normalization) and writing to Delta Tables
 - Gold Layer – Sentiment modeling with machine learning (TF‑IDF + Linear SVM, Logistic Regression, Naive Bayes, Random Forest)
 
-**Visualization **– Power BI dashboards for trends, languages, and engagement metrics
+**Visualization ** – Power BI dashboards for trends, languages, and engagement metrics
 **Best Model:** Linear SVM
 **Accuracy in main pipeline:** 87%
 **Accuracy in evaluation setup:** 90.22%
